@@ -16,6 +16,7 @@ module.exports = {
   },
    mounted () {
      console.log('inside the list connections: ' )
+     console.log('bbbbb' )
    },
   methods: {
 
